@@ -12,4 +12,5 @@ button.resize(200, 60);
 button.show( );
  
 return app.exec( );
+MAIN
 }
