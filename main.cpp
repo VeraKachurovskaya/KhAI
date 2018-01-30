@@ -11,4 +11,5 @@ QLabel *label = new Qlabel("<h2><i>Hello,</i> world</h2>");
 label->show( );
  
 return app.exec( );
+//update code
 }
