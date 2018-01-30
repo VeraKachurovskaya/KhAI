@@ -1,3 +1,4 @@
+//ןנמדנאללא
 #include <QApplication>
 #include <QPushButton>
  
