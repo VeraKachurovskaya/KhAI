@@ -1,4 +1,5 @@
-//ןנמדנאללא
+//program
+//vera kachurovskaya
 #include <QApplication>
 #include <QPushButton>
  
