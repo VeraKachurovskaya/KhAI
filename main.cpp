@@ -9,7 +9,7 @@ QApplication app(argc, argv);
  
 QLabel *label = new Qlabel("<h2><i>Hello,</i> world</h2>");
 label->show( );
- 
+QPushButton button("Hello, World!");
+button.resize(200, 60);
 return app.exec( );
-//update code
 }
